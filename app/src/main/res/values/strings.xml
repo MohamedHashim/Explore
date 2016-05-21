@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">"Explore"</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_title">Palais Garnier</string>
+    <string name="item_desc">The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+    </string>
+    <string name="detail_desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+    </string>
+    <string name="detail_location">"8 Rue Scribe, 75009 Paris, France"</string>
+
+    <string name="title">Machu Pichu\nWorld Heritage Site</string>
+    <string name="subtitle">The world-famous citadel of the Andes</string>
+  <string name="paragraph1">Machu Picchu is an Incan citadel set high in the Andes Mountains in
+    Peru, above the Urubamba River valley.</string>
+
+    <string name="image_caption">A 360 panoramic view of Machu Pichu</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="source">Source &lt;a href="https://en.wikipedia.org/wiki/Machu_Picchu">Wikipedia&lt;/a></string>
+    <string name="desc1">Enjoy the stunning Bellagio Fountains as a full 360 video experience. Spin around and immerse yourself as if you actually standing there</string>
+    <string name="desc2">Have you ever wanted to go skiing, but never made it? This 360˚ skiing virtual reality experience lets you feel like you are right there on the slopes! Created to promote Neilson Holidays, and commissioned by MBA Advertising, Atticus Digital set about developing a 360˚ skiing experience.</string>
+    <string name="desc3">Highlights from Red Sea diving in April 2013. The Hammer Head shark encounter was definitely the highlight. The great visibility was, however, what I remember the most about this trip.</string>
+    <string name="title1">the Fountains of Bellagio</string>
+    <string name="title2">Skiing Experience</string>
+    <string name="title3">SCUBA Diving Egypt Red Sea</string>
+    <string name="tour1">Cruising the Nile</string>
+    <string name="tour2">The Magnificent Abu Simbel Temples</string>
+    <string name="tour3">Karnak Temple - Largest Ancient Temple Ever Built</string>
+    <string name="tourdec3">The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of decayed temples, chapels, pylons, and other buildings. Building at the complex began during the reign of Senusret I in the Middle Kingdom and continued into the Ptolemaic period, although most of the extant buildings date from the New Kingdom. The area around Karnak was the ancient Egyptian Ipet-isut ("The Most Selected of Places") and the main place of worship of the eighteenth dynasty Theban Triad with the god Amun as its head. It is part of the monumental city of Thebes. The Karnak complex gives its name to the nearby, and partly surrounded, modern village of El-Karnak, 2.5 kilometres (1.6 miles) north of Luxor. Also, Karnak was a high-precision ancient observatory according to Norman Lockyer.</string>
+    <string name="tourdec2">The Abu Simbel temples are two massive rock temples at Abu Simbel (أبو سمبل in Arabic), a village in Nubia, southern Egypt, near the border with Sudan. They are situated on the western bank of Lake Nasser, about 230 km southwest of Aswan (about 300 km by road). The complex is part of the UNESCO World Heritage Site known as the "Nubian Monuments," which run from Abu Simbel downriver to Philae (near Aswan). The twin temples were originally carved out of the mountainside during the reign of Pharaoh Ramesses II in the 13th century BC, as a lasting monument to himself and his queen Nefertari, to commemorate his victory at the Battle of Kadesh. Their huge external rock relief figures have become iconic.
+
+The complex was relocated in its entirety in 1968, on an artificial hill made from a domed structure, high above the Aswan High Dam reservoir. The relocation of the temples was necessary to prevent their being submerged during the creation of Lake Nasser, the massive artificial water reservoir formed after the building of the Aswan High Dam on the Nile River.</string>
+    <string name="tourdec1">The Nile is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world. It is 6,853 km (4,258 miles) long. The Nile is an "international" river as its water resources are shared by eleven countries, namely, Tanzania, Uganda, Rwanda, Burundi, Congo-Kinshasa, Kenya, Ethiopia, Eritrea, South Sudan, Sudan and Egypt.In particular, the Nile is the primary water source of Egypt and Sudan.
+
+The Nile has two major tributaries, the White Nile and Blue Nile. The White Nile is considered to be the headwaters and primary stream of the Nile itself. The Blue Nile, however, is the source of most of the water and silt. The White Nile is longer and rises in the Great Lakes region of central Africa, with the most distant source still undetermined but located in either Rwanda or Burundi. It flows north through Tanzania, Lake Victoria, Uganda and South Sudan. The Blue Nile (Amharic: ዓባይ?, ʿĀbay) begins at Lake Tana in Ethiopia and flows into Sudan from the southeast. The two rivers meet near the Sudanese capital of Khartoum.</string>
+
+
+
+</resources>

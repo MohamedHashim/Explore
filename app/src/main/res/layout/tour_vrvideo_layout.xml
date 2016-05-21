@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/main_layout"
+        android:padding="10dip"
+         android:orientation="vertical">
+         <!--<android.support.v7.widget.Toolbar-->
+             <!--android:id="@+id/toolbar"-->
+             <!--android:layout_width="match_parent"-->
+             <!--android:layout_height="?attr/actionBarSize"-->
+             <!--android:background="?attr/colorPrimary"-->
+             <!--app:layout_scrollFlags="scroll|enterAlways"-->
+             <!--app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />-->
+
+
+         <TextView
+            style="@style/ContentText"
+            android:textSize="@dimen/title_text_size"
+            android:textStyle="bold"
+            android:textColor="@color/textDark"
+            android:text="virtual reality and 360 video "
+            android:id="@+id/title_tour"
+            android:paddingBottom="15dp"/>
+
+
+
+        <com.google.vrtoolkit.cardboard.widgets.video.VrVideoView
+            android:id="@+id/video_view_tour"
+            android:layout_width="match_parent"
+            android:scrollbars="@null"
+            android:layout_height="250dip"/>
+
+        <!-- Seeking UI & progress indicator.-->
+        <SeekBar
+            android:id="@+id/seek_bar_tour"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_height="32dp"
+            android:layout_width="fill_parent"/>
+        <TextView
+            android:id="@+id/status_text_tour"
+            android:text="Loading Video..."
+            android:layout_centerInParent="true"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:textSize="@dimen/caption_text_size"
+            android:paddingStart="32dp"
+            android:paddingEnd="32dp"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Description :"
+             android:id="@+id/textView2"
+             android:paddingTop="25dp"
+             style="@style/ContentText"
+             android:textColor="@color/textDark"
+             />
+
+         <TextView
+            style="@style/ContentText"
+            android:textColor="@color/textDark"
+            android:textSize="@dimen/paragragh_text_size"
+            android:text="There is no description for this video"
+            android:id="@+id/desc_tour"
+            android:paddingTop="15dp"
+            />
+
+        <TextView
+            android:id="@+id/source"
+            style="@style/ContentText"
+            android:textColor="@color/textDark"
+            android:textSize="@dimen/paragragh_text_size"/>
+    </LinearLayout>
+</ScrollView>
